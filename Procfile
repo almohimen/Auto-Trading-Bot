@@ -1,1 +1,1 @@
-web: python trading_bot.py
+start: python trading_bot.py
