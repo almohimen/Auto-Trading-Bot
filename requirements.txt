@@ -1,1 +1,3 @@
-pip install ccxt pandas ta
+ccxt 
+pandas 
+ta
